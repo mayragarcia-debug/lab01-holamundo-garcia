@@ -10,4 +10,5 @@ La aplicación muestra un saludo personalizado, el nombre del curso y un botón 
 
 ## Captura de pantalla
 
-Captura de pantalla 2026-08-19 a las 5.34.10 p. m.
+<img width="1399" height="776" alt="Captura de pantalla 2026-08-19 a las 5 34 10 p  m" src="https://github.com/user-attachments/assets/aa1aa4ba-4c1b-4b87-823b-d6ef63697368" />
+
